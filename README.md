@@ -11,8 +11,8 @@ A daily journal of my Python learning journey. This repository contains code sni
 | Module | Status | Highlights |
 | :--- | :---: | :--- |
 | **01 Basics** | 🏆 Completed | Syntax, data types, operators, input/output |
-| **02 Control Flow** | 🔄 In Progress | Conditionals, loops, error handling |
-| **03 Data Structures** | ⏳ Upcoming | Lists, dicts, sets, tuples, comprehensions |
+| **02 Control Flow** | 🏆 Completed | Conditionals, loops, error handling |
+| **03 Data Structures** | 🔄 In Progress | Lists, dicts, sets, tuples, comprehensions |
 | **04 Functions & Modules** | ⏳ Upcoming | Modular code, lambdas, decorators |
 | **05 OOP** | ⏳ Upcoming | Classes, inheritance, encapsulation |
 | **06 Mini-Projects** | ⏳ Upcoming | Automation scripts & CLI tools |
