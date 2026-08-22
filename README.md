@@ -13,10 +13,11 @@ A daily journal of my Python learning journey. This repository contains code sni
 | **01 Basics** | 🏆 Completed | Syntax, data types, operators, input/output |
 | **02 Strings & Conditionals** | 🏆 Completed | Conditionals, strings, slicing, indexing |
 | **03 Lists & Tuples** | 🏆 Completed | Lists and tuples |
-| **04 Dictionary & Set** | 🔃 In Progress | Dictionary & Set |
-| **05 Functions & Modules** | ⏳ Upcoming | Modular code, lambdas, decorators |
-| **06 OOP** | ⏳ Upcoming | Classes, inheritance, encapsulation |
-| **07 Mini-Projects** | ⏳ Upcoming | Automation scripts & CLI tools |
+| **04 Dictionary & Set** | 🏆 Completed | Dictionary & Set |
+| **05 Loops** | 🔃 In Progress | for & while loops |
+| **06 Functions & Modules** | ⏳ Upcoming | Modular code, lambdas, decorators |
+| **07 OOP** | ⏳ Upcoming | Classes, inheritance, encapsulation |
+| **08 Mini-Projects** | ⏳ Upcoming | Automation scripts & CLI tools |
 
 ## 🛠️ Running the Code
 Clone the repository and run any script locally:
