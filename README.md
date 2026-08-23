@@ -14,8 +14,8 @@ A daily journal of my Python learning journey. This repository contains code sni
 | **02 Strings & Conditionals** | 🏆 Completed | Conditionals, strings, slicing, indexing |
 | **03 Lists & Tuples** | 🏆 Completed | Lists and tuples |
 | **04 Dictionary & Set** | 🏆 Completed | Dictionary & Set |
-| **05 Loops** | 🔃 In Progress | for & while loops |
-| **06 Functions & Modules** | ⏳ Upcoming | Modular code, lambdas, decorators |
+| **05 Loops** | 🏆 Completed | for & while loops |
+| **06 Functions & Recursion** | 🔃 In Progress | Function and recursion |
 | **07 OOP** | ⏳ Upcoming | Classes, inheritance, encapsulation |
 | **08 Mini-Projects** | ⏳ Upcoming | Automation scripts & CLI tools |
 
