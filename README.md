@@ -15,9 +15,10 @@ A daily journal of my Python learning journey. This repository contains code sni
 | **03 Lists & Tuples** | 🏆 Completed | Lists and tuples |
 | **04 Dictionary & Set** | 🏆 Completed | Dictionary & Set |
 | **05 Loops** | 🏆 Completed | for & while loops |
-| **06 Functions & Recursion** | 🔃 In Progress | Function and recursion |
-| **07 OOP** | ⏳ Upcoming | Classes, inheritance, encapsulation |
-| **08 Mini-Projects** | ⏳ Upcoming | Automation scripts & CLI tools |
+| **06 Functions & Recursion** | 🏆 Completed | Function and recursion |
+| **07 File I/O** | 🔃 In Progress | file input and output |
+| **08 OOP** | 🔃 In Progress | Classes, inheritance, encapsulation |
+| **09 Mini-Projects** | ⏳ Upcoming | Automation scripts & CLI tools |
 
 ## 🛠️ Running the Code
 Clone the repository and run any script locally:
